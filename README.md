@@ -11,4 +11,10 @@ Todo:
 -----
 * Format the JSON data from the LinkedIn API into the format that JSON Resume uses, so that https://jsonresume.org can be used for generating the HTML page.
 
-Of course you can contribute to the project if you think it's a nice idea. You're also welcome to provide feedback to marcus@marcusnygren.se.
+Instructions
+-----
+1. Download application
+2. Run ruby s in the terminal
+3. Go to localhost:3000/linkedin
+
+Of course you can contribute to the project if you think it's a nice idea. You're also much welcome to provide feedback to marcus@marcusnygren.se.
