@@ -7,10 +7,6 @@ Idea:
 -----
 "My LinkedIn Page" collects your LinkedIn data, and formats it from JSON to HTML. Hopefully, it will later save the information to a database and provide a link where anyone can access your page without authentication.
 
-Todo:
------
-* Format the JSON data from the LinkedIn API into the format that JSON Resume uses, so that https://jsonresume.org can be used for generating the HTML page.
-
 How to run the application locally
 -----
 1. Create a new LinkedIn API application on https://developer.linkedin.com/
@@ -21,3 +17,7 @@ How to run the application locally
 6. Voilà!
 
 Of course you can contribute to the project if you think it's a nice idea. You're also much welcome to provide feedback to marcus@marcusnygren.se.
+
+Ideas:
+-----
+* Format the JSON data from the LinkedIn API into the format that JSON Resume uses, so that https://jsonresume.org can be used for generating the HTML page.
