@@ -11,10 +11,13 @@ Todo:
 -----
 * Format the JSON data from the LinkedIn API into the format that JSON Resume uses, so that https://jsonresume.org can be used for generating the HTML page.
 
-Instructions
+How to run the application locally
 -----
-1. Download application
-2. Run ruby s in the terminal
-3. Go to localhost:3000/linkedin
+1. Create a new LinkedIn API application on https://developer.linkedin.com/
+2. Download my code
+3. Create the files *apiKey.txt* and *apiSecret.txt* in the root, and add your API key and secret to the files
+4. Start the application via typing `ruby s` in the terminal
+5. Go to `localhost:3000/linkedin` in your favorite web browser.
+6. Voilà!
 
 Of course you can contribute to the project if you think it's a nice idea. You're also much welcome to provide feedback to marcus@marcusnygren.se.
