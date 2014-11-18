@@ -3,8 +3,6 @@ My-LinkedIn-Page
 
 My first Ruby on Rails and API experiment
 
-Concept:
------
 "My LinkedIn Page" collects your LinkedIn data, and formats it from JSON to HTML. Hopefully, it will later save the information to a database and provide a link where anyone can access your page without authentication.
 
 How to run the application locally
